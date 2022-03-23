@@ -1,0 +1,74 @@
+body {
+    background-color: gainsboro;
+    color: white;
+
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+
+}
+
+.Col1 {
+  width: 250px;
+  height: 250px;
+  background-color: grey;
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 40px;
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.Col2 {
+  width: 250px;
+  height: 250px;
+  background-color: salmon;
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 40px;
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.Col3 {
+  width: 250px;
+  height: 250px;
+  background-color: salmon;
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 40px;
+  font-family: 'Source Sans Pro', sans-serif;
+  
+
+}
+
+.Col4 {
+  width: 250px;
+  height: 250px;
+  background-color: grey;
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 40px;
+  font-family: 'Source Sans Pro', sans-serif;
+  
+
+}
+
+.btn-dead {
+  background-color: grey;
+
+}
